@@ -22,6 +22,9 @@ Users simply watch their favorite SoundBites on the platform and earn UTA tokens
 ### NFT Companions
 Users can acquire and level up digital companions through NFTs. These companions offer unique attributes and benefits, such as increased rewards and exclusive access to content, enhancing the overall user experience.
 
+### Items
+Users can buy items (NFTs) from the marketplace to enhance their companions attributes and by consequence increase their rewards. Items also serve as normal NFTs in the artistic aspect and can be sold or traded in the Peer 2 peer section or third party platforms such as Opensea or Mintable...
+
 ### Companion Points (CP)
 Performing daily tasks within the app, such as liking, sharing, and interacting with content, earns users Contribution Points (CP). These points unlock exclusive benefits and the opportunity to receive a gifted companion, further incentivizing engagement.
 
