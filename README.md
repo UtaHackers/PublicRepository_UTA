@@ -38,9 +38,9 @@ New Genesis UTA is not just a music platform—it's a gateway to the Metaverse. 
 We're constantly innovating and improving the platform to provide the best possible experience for our users. From new features to enhanced rewards, we're committed to shaping the future of music discovery and engagement.
 
 
-#### Traces
+## Traces
 
-
+### NFT (Companion) 
 Contract Address(Nfts): 0xd3FFC15d090337c1F6738353BBa10F4d4AE1BE43 
 
 Transaction Hash(Mint NFTs): 0x5909fd6b3ca2226480c11bd14597bde70bce710dd13bc3580b3375749abe1f08
