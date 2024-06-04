@@ -2,8 +2,8 @@
 This repository contains public files of UTA project, dev files ("https://github.com/UtaHackers/DevRepository_UTA") are in a private repository feel free to ask permission to view them.
 
 # UTA by New Genesis
-## Try out the beta version
-(link for uta apk)
+## (The project will be updated constantly)
+
 ## Intro
 New Genesis UTA is a groundbreaking music platform that merges the power of blockchain technology with the passion of music enthusiasts. Our platform offers a unique blend of music streaming, social media interaction, and gamified rewards, providing an immersive experience for both users and artists.
 
@@ -41,6 +41,8 @@ We're constantly innovating and improving the platform to provide the best possi
 ## Check out the Whitepaper
 https://new-genesis.gitbook.io/new-genesis-whitepaper
 ## In depth
+
+### 
 
 ### NFT (Companion) 
 Contract Address(Nfts): 0xd3FFC15d090337c1F6738353BBa10F4d4AE1BE43 
