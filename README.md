@@ -38,6 +38,8 @@ New Genesis UTA is not just a music platform—it's a gateway to the Metaverse. 
 ### Continuous Innovation
 We're constantly innovating and improving the platform to provide the best possible experience for our users. From new features to enhanced rewards, we're committed to shaping the future of music discovery and engagement.
 
+## Check out the Whitepaper
+https://new-genesis.gitbook.io/new-genesis-whitepaper
 ## In depth
 
 ### NFT (Companion) 
